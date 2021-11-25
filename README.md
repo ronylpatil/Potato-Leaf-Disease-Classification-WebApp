@@ -13,7 +13,6 @@
 <b>Dataset Source : https://www.kaggle.com/arjuntejaswi/plant-village</b>
 
 
-
 <b>Sample Output : </b> The output is showing 3 thing's. 
 * <b>Predicted Class : </b>The model's output.
 * <b>Actual Class : </b>The actual output.
