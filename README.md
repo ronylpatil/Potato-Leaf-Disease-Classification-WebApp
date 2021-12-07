@@ -24,4 +24,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
-</p>
+</p> 
+
+<!-- © 2021 Ronil Patil<br>
+[![Website](https://img.shields.io/badge/Made%20with-%E2%9D%A4-important?style=for-the-badge&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
