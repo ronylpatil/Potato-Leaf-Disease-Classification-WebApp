@@ -1,4 +1,4 @@
-# Potato-Leaf-Disease-Classification
+# Potato Leaf Disease Classification
 
 ##### Profile Visits : 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.Potato-Leaf-Disease-Classification&left_color=lightgrey&right_color=brightgreen&left_text=visitors) 
