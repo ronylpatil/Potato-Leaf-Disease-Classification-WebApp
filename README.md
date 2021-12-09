@@ -12,6 +12,51 @@
 <b>Heroku App : https://potato-leaf-disease-detection.herokuapp.com/</b><br>
 <b>Dataset Source : https://www.kaggle.com/arjuntejaswi/plant-village</b>
 
+<b>Folder Structure : </b>
+```
+                    Potato Leaf Dataset       --> main folder
+                      ----| train      
+                          ----| Potato_Healthy
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Early_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Late_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+
+                      ----| test      
+                          ----| Potato_Healthy
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Early_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Late_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              
+                      ----| valid      
+                          ----| Potato_Healthy
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Early_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Late_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+```
 
 <b>Sample Output : </b> The output is showing 3 thing's. 
 * <b>Predicted Class : </b>The model's output.
